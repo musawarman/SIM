@@ -1,0 +1,266 @@
+body {
+	color : black;
+	font-family : sans-serif,serif,arial;
+	margin : 0px 0px 0px 0px;
+	margin-left : 4px;
+}
+
+.mainFolderBox {
+	color : 4F4F4F;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+	font-weight : bold;
+	margin : 0px 0px;
+	padding : 2px 2px;
+	line-height: 14pt;
+}
+
+.mainFolderLine {
+	color : 4F4F4F;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+	font-weight : bold;
+	text-decoration : none;
+}
+
+.mainFolderLineMouseOver {
+	color : 4F4F4F;
+	font-weight : bold;
+	text-decoration : none;
+                font-family: sans-serif, serif, Arial; 
+               font-size: 8pt
+}
+
+.subFolderBox {
+	border : 0px navy groove;
+	color : 4F4F4F;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	margin : 0px 0px 0px 0px;
+	padding : 2px 2px 2px 2px;
+	background-color: #F3F3F3;	
+}
+
+.subFolderLine {
+	color : 4F4F4F;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+	text-decoration : none;
+}
+
+.subFolderLineMouseOver {
+	color : 4F4F4F;
+	font-family : sans-serif;
+	text-decoration : none;
+}
+
+.linkBox {
+	border : 0px navy solid;
+	color : 4F4F4F;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+	margin : 0px 0px 0px 0px;
+	padding : 2px 2px 2px 2px;
+	text-indent : 0px;
+	
+}
+
+.linkLine {
+	color : 4F4F4F;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+}
+
+.linkLineMouseOver {
+	color : 4F4F4F;
+	font-family: sans-serif, serif, Arial; font-size: 8pt
+}
+
+
+
+
+
+
+.mainFolderBox_group  {
+	color : B90000;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+	font-weight : bold;
+	margin : 0px 0px;
+	padding : 2px 2px;
+	line-height: 14pt;
+}
+
+.mainFolderLine_group  {
+	color : B90000;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+	font-weight : bold;
+	text-decoration : none;
+}
+
+.mainFolderLine_groupMouseOver {
+	color : B90000;
+	font-weight : bold;
+	text-decoration : none;
+                font-family: sans-serif, serif, Arial; 
+               font-size: 8pt
+}
+
+.subFolderBox_group  {
+	border : 0px navy groove;
+	color : 4F4F4F;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	margin : 0px 0px 0px 0px;
+	padding : 2px 2px 2px 2px;
+	background-color: #EBEBEB;
+	
+}
+
+.subFolderLine_group {
+	color : 4F4F4F;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+	text-decoration : none;
+}
+
+.subFolderLine_groupMouseOver {
+	color : 4F4F4F;
+	font-family : sans-serif;
+	text-decoration : none;
+}
+
+.linkBox_group {
+	border : 0px navy solid;
+	color : none;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+	margin : 0px 0px 0px 0px;
+	padding : 2px 2px 2px 2px;
+	text-indent : 0px;
+	background-color: #EBEBEB;
+	
+}
+
+.linkLine_group {
+	color : 4F4F4F;
+	font-family :  sans-serif, serif, arial;
+	font-size : 8pt;
+}
+
+.linkLinegroupMouse_Over {
+	color : 4F4F4F;
+	font-family: sans-serif, serif, Arial; font-size: 8pt
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.alerte { 
+	font-family: Ottawa, Verdana, Arial; 
+	font-size: large; 
+	font-style: normal; 
+	font-weight: bold; 
+	color: #B90000; 
+	text-align: left 
+}
+
+
+.alertemsg {  
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 8pt; 
+	font-weight: normal
+}
+
+.rubriquetitre {  
+	font-family: Ottawa, Verdana, Arial; 
+	color: #B90000; 
+	font-style: normal; 
+	line-height: normal; 
+	font-weight: bold
+; font-size: 12pt
+}
+
+.zoomsur {  
+	font-family: Ottawa, Verdana, Arial; 
+	font-weight: bold; 
+	color: #333333
+; font-size: 12pt
+; text-align: center
+}
+
+.parentheses {  
+	font-family: sans-serif, serif, Arial; 
+	font-size: 8pt; 
+	font-style: italic
+}
+
+.date {  
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size: 8pt; 
+	font-weight: normal; font-style: italic
+; vertical-align: text-bottom
+; line-height: 15px
+}
+
+.copyright {  
+	font-family: sans-serif, serif, Arial; 
+	font-size: 8pt; 
+	font-style: italic
+; color: #B7B7B7
+}
+
+.responsables {  
+	font-family: sans-serif, serif, Arial; 
+	font-size: 8pt; 
+	font-style: normal
+; color: #B9B9B9
+}
+.datealerte { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; font-style: italic}
+.texte { font-family: Arial, sans-serif, serif, ; font-size: 10pt; color: #000000; text-align: justify}
+.titreouvrage { font-family: sans-serif, serif, Arial; font-size: 10pt ; font-style: italic}
+.enligne { font-family: sans-serif, serif, Arial; font-size: 10pt ; font-style: italic; color: #333333}
+.alertevts { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal }
+.langues {  font-family: sans-serif, serif, Arial, Helvetica, ; font-weight: bold; color: #000066; font-size: 9pt; text-align: center}
+.texteverdana {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal}
+.textedefilant { font-family: sans-serif, serif, arial; font-size: 10pt}
+.para {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal}
+.planrecherche { font-family: sans-serif, serif, Arial; font-size: 8pt; color: #4F4F4F; text-align: justify ; font-weight: bold; font-style: normal}
+.aide { font-family: sans-serif, serif, Arial; font-size: 8pt; font-style: italic ; font-weight: normal; color: #4F4F4F}
+.dateconf { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal; font-style: italic }
+.titredansbarre3L {  font-family: Arial, Helvetica, sans-serif; font-size: 14pt; color: #E0E0E0; text-align: center; font-weight: bold}
+.titredansbarrefin { font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: #CACACA; text-align: center; font-weight: bold }
+.titre1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: #B90000;}
+.titre2 { font-family: Arial, Helvetica, sans-serif; color: #B90000; font-style: italic; line-height: normal; font-weight: bold ; font-size: 12pt }
+.basdepage { font-family: sans-serif, serif, Arial; font-size: 8pt; font-style: italic; color: #B9B9B9; text-align: center}
+.fintexte { font-family: sans-serif, serif, Arial; font-size: 8pt; font-style: normal; color: #666666; text-align: left}
+.Rubrique_LaUne { font-family: Ottawa, Verdana, Arial; color: #B90000; font-style: normal; line-height: normal; font-weight: bold ; font-size: 13pt}
+.emailpa { font-family: sans-serif, serif, Arial; font-size: 8pt; font-style: normal ; color: #B9B9B9 }
+.basdepage_plan { font-family: sans-serif, serif, Arial; font-size: 8pt; font-style: italic; color: #666666; text-align: center}
+.fintexte_centre { font-family: sans-serif, serif, Arial; font-size: 8pt; font-style: normal; color: #666666; text-align: center}
+.titresite { font-family: Ottawa, Verdana, Arial; color: #B90000; font-style: normal; line-height: normal; font-weight: bold ; font-size: 24px}
+.titresite2 { font-family: Ottawa, Verdana, Arial; color: #FFFFFF; font-style: normal; line-height: normal; font-weight: bold ; font-size: 24px}
+.rubriquetitre2 { font-family: Ottawa, Verdana, Arial; color: #B90000; font-style: normal; line-height: normal; font-weight: bold ; font-size: 14px}
+.rubrique-groupe { color : B90000; font-family : sans-serif, serif, arial; font-size : 12px; font-weight : bold; text-decoration : none; }
+.textegras {
+	font-family: Arial, sans-serif, serif,;
+	font-size: 10pt;
+	color: #000000;
+	text-align: justify;
+	font-weight: bold;
+}

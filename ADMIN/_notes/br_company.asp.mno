@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsUser" value="name:CompanyID;datatype:varchar,name:CompanyName;datatype:varchar,name:Address;datatype:varchar,name:City;datatype:varchar,name:Region;datatype:varchar,name:Phone;datatype:varchar,name:PostalCode;datatype:numeric,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+	<infoitem key="UD_rsCompany" value="name:CompanyID;datatype:varchar,name:CompanyName;datatype:varchar,name:Address;datatype:varchar,name:City;datatype:varchar,name:Region;datatype:varchar,name:Phone;datatype:varchar,name:PostalCode;datatype:numeric,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

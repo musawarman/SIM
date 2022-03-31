@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsNews" value="name:id;datatype:int,name:thumbnail;datatype:varchar,name:tgl;datatype:smalldatetime,name:title;datatype:,name:clip;datatype:,name:lengkap;datatype:varchar" />
+	<infoitem key="UD_rsProduct" value="name:prodid;datatype:int,name:image;datatype:varchar,name:name;datatype:varchar,name:lead;datatype:,name:detail;datatype:,name:tabel;datatype:" />
+</info>

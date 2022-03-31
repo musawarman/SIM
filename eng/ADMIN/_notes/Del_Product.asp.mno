@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsProduct" value="name:Prodid;datatype:int,name:groupid;datatype:varchar,name:name;datatype:varchar,name:lead;datatype:,name:detail;datatype:,name:thumb;datatype:varchar,name:updateby;datatype:varchar,name:tgl;datatype:smalldatetime,name:del;datatype:char" />
+</info>

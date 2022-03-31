@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsNews" value="name:id;datatype:numeric,name:JabatanID;datatype:varchar,name:UserID;datatype:varchar,name:Title;datatype:varchar,name:Content;datatype:varchar,name:Lengkap;datatype:varchar,name:Tanggal;datatype:varchar,name:Image;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsSupplier" value="name:SupplierID;datatype:varchar,name:Supplier_Name;datatype:varchar,name:Company_Name;datatype:varchar,name:Contact_Name;datatype:varchar,name:Contact_Title;datatype:varchar,name:Address;datatype:varchar,name:City;datatype:varchar,name:Region;datatype:varchar,name:PostalCode;datatype:numeric,name:Phone;datatype:varchar,name:Fax;datatype:varchar,name:Country;datatype:varchar,name:Home_Page;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

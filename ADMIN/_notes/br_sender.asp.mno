@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsSender" value="name:IDPengirim;datatype:varchar,name:LastName;datatype:varchar,name:FirstName;datatype:varchar,name:Jabatan;datatype:varchar,name:Address;datatype:varchar,name:City;datatype:varchar,name:Region;datatype:varchar,name:HomePhone;datatype:varchar,name:Photo;datatype:char,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

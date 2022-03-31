@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsPemesan" value="name:UserID;datatype:varchar,name:IDPemesan;datatype:int,name:NamaPemesan;datatype:varchar,name:Password;datatype:varchar,name:First_Name;datatype:varchar,name:LastName;datatype:varchar,name:Alamat;datatype:varchar,name:Kota;datatype:varchar,name:Kode_Area;datatype:varchar,name:No_Telepon;datatype:varchar,name:Contact_Person;datatype:varchar,name:Contact_Title;datatype:varchar,name:Fax;datatype:varchar,name:Email;datatype:varchar,name:Target_Supplier;datatype:varchar,name:Alamat_Kandang;datatype:varchar,name:Nama_Kandang;datatype:varchar,name:Kapasitas_Kandang;datatype:bigint,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

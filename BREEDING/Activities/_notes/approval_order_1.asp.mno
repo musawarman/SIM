@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsOrder" value="name:OrderID;datatype:varchar" />
+	<infoitem key="UD_getJabatan" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@userID;direction:1;datatype:varchar;,name:@JabatanID;direction:2;datatype:varchar;" />
+	<infoitem key="UD_updateorder" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@OrderID;direction:1;datatype:varchar;,name:@userID;direction:1;datatype:varchar;" />
+</info>

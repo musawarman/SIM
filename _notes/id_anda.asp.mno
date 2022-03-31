@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsProdukPesan" value="name:ProdukID;datatype:varchar,name:UserID;datatype:varchar,name:Category;datatype:varchar,name:Nama_Produk;datatype:varchar,name:Kuantitas;datatype:float,name:Price;datatype:float,name:QtyPrice;datatype:float,name:SatuanBerat;datatype:varchar,name:Tanggal_Pesan;datatype:smalldatetime,name:Status;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime,name:IDPemesan;datatype:int,name:id_prod;datatype:int" />
+	<infoitem key="UD_getID" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@NamaPemesan;direction:1;datatype:varchar;,name:@UserID;direction:2;datatype:varchar;" />
+	<infoitem key="UD_rsProdPesan" value="name:ProdukID;datatype:varchar,name:UserID;datatype:varchar,name:Category;datatype:varchar,name:Nama_Produk;datatype:varchar,name:Kuantitas;datatype:float,name:SatuanBerat;datatype:varchar,name:Tanggal_Pesan;datatype:smalldatetime,name:Status;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime,name:IDPemesan;datatype:int,name:id;datatype:numeric" />
+</info>

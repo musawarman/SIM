@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsProduct" value="name:Prodid;datatype:int,name:groupid;datatype:varchar,name:name;datatype:varchar,name:lead;datatype:,name:detail;datatype:,name:thumb;datatype:varchar,name:updateby;datatype:varchar,name:tgl;datatype:smalldatetime,name:del;datatype:char" />
+	<infoitem key="UD_rsProdukHD" value="name:ProductsID;datatype:varchar,name:DivisiID;datatype:varchar,name:OrderID;datatype:varchar,name:SupplierID;datatype:varchar,name:Nama_Mitra;datatype:varchar,name:Tanggal;datatype:smalldatetime,name:Keterangan;datatype:varchar,name:Lokasi_Gudang;datatype:varchar,name:NamaGudang_Kandang;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

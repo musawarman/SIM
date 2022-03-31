@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_GetRunNumber" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@Unit;direction:1;datatype:varchar;,name:@supplier;direction:1;datatype:varchar;,name:@orderid;direction:2;datatype:varchar;" />
+	<infoitem key="UD_rs_Area" value="name:ID_Area;datatype:varchar" />
+	<infoitem key="UD_rsprodHD" value="name:ProductsID;datatype:varchar,name:Lokasi_Gudang;datatype:varchar,name:NamaGudang_Kandang;datatype:varchar" />
+</info>

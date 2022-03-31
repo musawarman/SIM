@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsontact" value="name:ID;datatype:int,name:Del;datatype:char,name:Company;datatype:varchar,name:Address1;datatype:varchar,name:Address2;datatype:varchar,name:City;datatype:varchar,name:Phone;datatype:varchar,name:Fax;datatype:varchar,name:UpdateBy;datatype:varchar,name:tgl;datatype:smalldatetime" />
+</info>

@@ -1,0 +1,75 @@
+TABLE.tblight {
+	BACKGROUND-COLOR: #e7e8ee
+}
+TABLE.tbdark {
+	BACKGROUND-COLOR: #f5eae9
+}
+TABLE.tbtitle {
+	BACKGROUND-COLOR: #e7e8ee
+}
+TABLE.tbheader {
+	BACKGROUND-COLOR: #586baf
+}
+TABLE.tbfooter {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #daafaf
+}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: Verdana
+}
+TD.tdtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #586baf
+}
+TD.tdbrowsetitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #586baf
+}
+TD.tdheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 13pt; COLOR: #ffffff; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #586baf
+}
+TD.tdfooter {
+	FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #c88888
+}
+TD.tddark {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #e7e8ee
+}
+TR.trdark {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #e7e8ee
+}
+TD.tdlight {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #e7e8ee
+}
+TR.trlight {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #f3f3f4
+}
+TD.tdverylight {
+	BACKGROUND-COLOR: #ffffff
+}
+A:link {
+	FONT-SIZE: 8pt; COLOR: #994444; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-SIZE: 8pt; COLOR: #994444; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 8pt; COLOR: #994444; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+A:active {
+	FONT-SIZE: 8pt; COLOR: #f9f2f2; FONT-FAMILY: Verdana; TEXT-DECORATION: underline
+}
+.linked1 {
+	FONT-SIZE: 8pt; COLOR: #ffff00; FONT-FAMILY: Arial; TEXT-DECORATION: underline
+}
+.btn {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #333333 1px solid; WIDTH: 50px; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #ffecec
+}
+.btn_file {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #333333 1px solid; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 18px; BACKGROUND-COLOR: #ffecec
+}
+.btn_text {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #333333 1px solid; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; BACKGROUND-COLOR: #ffecec
+}
+.btn_tgl {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #333333 1px solid; WIDTH: 50px; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; BACKGROUND-COLOR: #ffecec
+}
+.btn_textarea {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #333333 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #333333 1px solid; COLOR: #000000; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 100px; BACKGROUND-COLOR: #ffecec
+}

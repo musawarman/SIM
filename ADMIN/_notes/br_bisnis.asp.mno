@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsProfile" value="name:ID;datatype:int,name:Del;datatype:char,name:CompId;datatype:varchar,name:Name;datatype:varchar,name:Lang;datatype:char,name:Lead;datatype:,name:content;datatype:,name:updateby;datatype:varchar,name:tgl;datatype:smalldatetime" />
+</info>

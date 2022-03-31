@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsViewOrderAppr" value="name:OrderID;datatype:varchar,name:JabatanID;datatype:varchar,name:UserID;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime,name:TanggalAppr;datatype:smalldatetime,name:Approve;datatype:varchar" />
+</info>

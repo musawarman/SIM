@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_GetRunNumber" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@Unit;direction:1;datatype:varchar;,name:@idpengirim;direction:2;datatype:varchar;" />
+</info>

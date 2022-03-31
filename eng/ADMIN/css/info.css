@@ -1,0 +1,9 @@
+p {  font-family: Georgia, "Times New Roman", Times, serif; text-align: justify}
+h1 { font-family: Georgia, "Times New Roman", Times, serif; font-style: italic; color: #B01E2D; font-size: 24px ; text-align: center}
+h2 { font-family: Georgia, "Times New Roman", Times, serif; font-size: 16px; font-style: normal; color: #B01E2D }
+.annee_rapport_urgence { font-family: Georgia, "Times New Roman", Times, serif; font-size: 18px; color: B01E2D; text-decoration: underline }
+.dernier_rapport_urgence { font-family: Georgia, "Times New Roman", Times, serif; color: #B01E2D }
+.top {  font-size: x-small}
+.basdepage {  font-size: small; text-align: center}
+.unnamed1 {  font-family: Georgia, "Times New Roman", Times, serif; text-align: center}
+.textcellule { font-family: Georgia, "Times New Roman", Times, serif; text-align: center ; vertical-align: top}

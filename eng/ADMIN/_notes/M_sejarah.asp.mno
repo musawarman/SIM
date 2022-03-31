@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsSejarah" value="name:ID;datatype:int,name:Head;datatype:,name:Del;datatype:char,name:Content;datatype:,name:image;datatype:varchar,name:updateby;datatype:varchar,name:tgl;datatype:smalldatetime,name:Lang;datatype:char" />
+</info>

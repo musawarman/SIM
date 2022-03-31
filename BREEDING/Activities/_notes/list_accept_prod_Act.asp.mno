@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsAcceptProd" value="name:ProductsID;datatype:varchar,name:SupplierID;datatype:varchar,name:ProductName;datatype:varchar,name:QuantityPerUnit;datatype:float,name:SatuanBerat;datatype:varchar,name:AcceptBy;datatype:varchar,name:Keterangan;datatype:varchar,name:AcceptDate;datatype:smalldatetime,name:Company;datatype:varchar,name:AddressCompany;datatype:varchar,name:Phone;datatype:varchar,name:Status;datatype:varchar,name:Stock;datatype:varchar,name:Stockin_KG;datatype:varchar,name:Stockin_Butir;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

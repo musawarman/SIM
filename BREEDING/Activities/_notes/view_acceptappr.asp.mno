@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_Rs_ViewAcceptAppr" value="name:JabatanID;datatype:varchar,name:UserID;datatype:varchar,name:ProductsID;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime,name:TanggalAppr;datatype:smalldatetime,name:Approve;datatype:varchar" />
+	<infoitem key="UD_rs_Acceptappr" value="name:JabatanID;datatype:varchar,name:UserID;datatype:varchar,name:ProductsID;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime,name:TanggalAppr;datatype:smalldatetime,name:Approve;datatype:varchar" />
+</info>

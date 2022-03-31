@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsCareers" value="name:ID;datatype:int,name:Del;datatype:char,name:JobTitle;datatype:varchar,name:Qualification;datatype:,name:Deadline;datatype:smalldatetime,name:updateby;datatype:varchar,name:tgl;datatype:smalldatetime" />
+</info>

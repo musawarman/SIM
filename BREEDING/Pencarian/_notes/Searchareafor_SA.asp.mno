@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsMitra" value="name:ID;datatype:int,name:ID_Area;datatype:varchar,name:Area;datatype:varchar,name:AM;datatype:varchar,name:Ass_AM;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+	<infoitem key="UD_rsArea" value="name:ID;datatype:int,name:ID_Area;datatype:varchar,name:Area;datatype:varchar,name:AM;datatype:varchar,name:Ass_AM;datatype:varchar,name:UpdateUser;datatype:varchar,name:UpdateDate;datatype:smalldatetime" />
+</info>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsProdPesan" value="name:Nama_Produk;datatype:varchar,name:Kuantitas;datatype:float,name:Price;datatype:float,name:QtyPrice;datatype:float,name:SatuanBerat;datatype:varchar" />
+</info>

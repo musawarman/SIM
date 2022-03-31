@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="PageAccessControl" value="5,4,3,8" />
+	<infoitem key="PageAccessControlMethod" value="useAccessList" />
+	<infoitem key="UD_Session1" value="updateuser" />
+	<infoitem key="UD_sessionCount" value="5" />
+	<infoitem key="UD_Session2" value="Updatesupplier" />
+	<infoitem key="UD_Session3" value="Updatedivisi" />
+	<infoitem key="UD_Session4" value="UpdateOrderID" />
+	<infoitem key="UD_Session5" value="UpdateprodukID" />
+</info>

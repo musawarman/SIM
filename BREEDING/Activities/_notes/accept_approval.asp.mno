@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_InsertOrderAppr" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@produkid;direction:1;datatype:varchar;,name:@userid;direction:1;datatype:varchar;" />
+	<infoitem key="UD_Rs_Prod_Accept" value="name:ProductsID;datatype:varchar" />
+	<infoitem key="UD_InsertAcceptAppr" value="name:@RETURN_VALUE;direction:4;datatype:int;,name:@productsid;direction:1;datatype:varchar;,name:@userid;direction:1;datatype:varchar;" />
+</info>

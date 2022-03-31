@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_rsPesan" value="name:IDmsg;datatype:int,name:Name;datatype:varchar,name:Topik;datatype:varchar,name:Email;datatype:varchar,name:Message;datatype:varchar,name:UpdateUser;datatype:,name:UpdateDate;datatype:smalldatetime" />
+</info>
